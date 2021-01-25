@@ -1,1 +1,17 @@
-
+{
+    "TY": "thank you",
+    "YW": "you're welcome",
+    "DK": "don't know",
+    "TTYL": "talk to you later",
+    "LOL": "laughing out loud",
+    "NP": "no problem",
+    "HH": "hello, how are you?",
+    "P": "I have pain; ask me where",
+    "IH": "I have an itch please verbally scan my body to find where",
+    "SW": "something is wrong; ask me questions",
+    "T": "I am tired and want to rest",
+    "S": "I want to stop now",
+    "AP": "please add a phrase to my dictionary",
+    "H": "I need help",
+    "GB": "goodbye, nice to see you"
+}
